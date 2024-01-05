@@ -1,4 +1,4 @@
-package org.serdarfirlayis.SearchingAlgorithms;
+package org.serdarfirlayis.searchingAlgorithms;
 
 public class BinarySearch {
 

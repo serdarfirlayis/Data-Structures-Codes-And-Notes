@@ -1,4 +1,4 @@
-package org.serdarfirlayis.Arrays;
+package org.serdarfirlayis.arrays;
 
 import java.util.ArrayList;
 import java.util.HashSet;
